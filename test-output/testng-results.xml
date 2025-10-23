@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-22T16:53:37 IST" name="Suite" finished-at="2025-10-22T16:54:19 IST" duration-ms="41847">
+  <suite started-at="2025-10-23T11:21:04 IST" name="Suite" finished-at="2025-10-23T11:21:38 IST" duration-ms="34719">
     <groups>
     </groups>
-    <test started-at="2025-10-22T16:53:37 IST" name="Test" finished-at="2025-10-22T16:54:19 IST" duration-ms="41847">
+    <test started-at="2025-10-23T11:21:04 IST" name="Test" finished-at="2025-10-23T11:21:38 IST" duration-ms="34719">
       <class name="test.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.LoginTest@5656be13]" started-at="2025-10-22T16:53:37 IST" name="setup" finished-at="2025-10-22T16:53:54 IST" duration-ms="16825" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.LoginTest@4f0f2942]" started-at="2025-10-23T11:21:04 IST" name="setup" finished-at="2025-10-23T11:21:18 IST" duration-ms="14166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testCreateAdminUser()[pri:0, instance:test.LoginTest@5656be13]" started-at="2025-10-22T16:53:54 IST" name="testCreateAdminUser" finished-at="2025-10-22T16:54:18 IST" duration-ms="24527" status="PASS">
+        <test-method signature="testCreateAdminUser()[pri:0, instance:test.LoginTest@4f0f2942]" started-at="2025-10-23T11:21:18 IST" name="testCreateAdminUser" finished-at="2025-10-23T11:21:38 IST" duration-ms="20114" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateAdminUser -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.LoginTest@5656be13]" started-at="2025-10-22T16:54:18 IST" name="tearDown" finished-at="2025-10-22T16:54:19 IST" duration-ms="432" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.LoginTest@4f0f2942]" started-at="2025-10-23T11:21:38 IST" name="tearDown" finished-at="2025-10-23T11:21:38 IST" duration-ms="305" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
